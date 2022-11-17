@@ -1,23 +1,3 @@
-TCP Hole-Punching
-================
+[직접 TCP 홀펀칭을 구현](https://github.com/yjd6808/_Fork_tcp-holepunching) 해본후 내가 본 답지 코드이다.  
+"P2P 연결"만 구현되어져 있어서 통신확인을 위해서 일부 코드를 수정해줬다.
 
-Purpose
------------
-
-To demonstrate hole punching / NAT traversal using the TCP protocol.
-
-UDP hole punching is more well known and TCP hole punching is less supported by different router models, so this is a proof of concept.
-
-Instructions
-------------
-
-1. Run the Introducer executable on a publicy reachable server (e.g. an Amazon EC2 instance).
-
-2. Run the Peer executable on both PCs you want to connect.
-
-3. Use a service like cmyip.com to determine the public WAN IPs of each PC, and enter them in each Peer. Hit <ENTER>.
-
-If the connection succeeds, then TCP hole punching just succeeded.
-
-* It helps to lower the firewalls on each PC.
-* This will most likely not work if either PC is in a corporate network.

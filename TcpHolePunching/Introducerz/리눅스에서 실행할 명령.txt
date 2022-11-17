@@ -1,0 +1,4 @@
+cd ~ && unzip publish.zip -d introducerz
+cd introducerz/publish
+sudo chmod +x ./Introducerz
+./Introducerz

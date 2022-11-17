@@ -5,3 +5,8 @@ C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\bin\Debug\Tcp
 C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.csprojResolveAssemblyReference.cache
 C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.exe
 C:\Users\Jason\Dropbox\TcpHolePunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.pdb
+C:\Users\jdyun\Desktop\논병아리\tcp-holepunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.csproj.AssemblyReference.cache
+C:\Users\jdyun\Desktop\논병아리\tcp-holepunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdyun\Desktop\논병아리\tcp-holepunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.csproj.CoreCompileInputs.cache
+C:\Users\jdyun\Desktop\논병아리\tcp-holepunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.exe
+C:\Users\jdyun\Desktop\논병아리\tcp-holepunching\TcpHolePunching\IdealServer\obj\Debug\IdealServer.pdb
